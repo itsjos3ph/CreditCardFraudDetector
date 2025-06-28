@@ -1,3 +1,5 @@
+Credit Joseph Sabo
+
 🛡️ Credit Card Fraud Detection
 This project focuses on building a machine learning model to detect fraudulent credit card transactions using logistic regression. The model was trained and evaluated on a real-world dataset consisting of 284,807 transactions, with only 492 labeled as fraud—making this a classic case of working with imbalanced data.
 
